@@ -1,0 +1,25 @@
+{
+  "name": "lohikaSession2JSAsycProgramming",
+  "version": "1.0.0",
+  "description": "Homework of lohikaSession2JSAsycProgramming",
+  "main": "01_async.js",
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkhomytsya/lohikaSession2JSAsycProgramming.git"
+  },
+  "keywords": [],
+  "author": "Marko Khomytsya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkhomytsya/lohikaSession2JSAsycProgramming/issues"
+  },
+  "homepage": "https://github.com/mkhomytsya/lohikaSession2JSAsycProgramming#readme"
+}
