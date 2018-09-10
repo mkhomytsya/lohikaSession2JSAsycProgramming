@@ -50,7 +50,7 @@ getContributors('nodejs')
         console.log(contributors);
         console.log('end');
     }
-)/*
+)
 .catch(
     err => console.log('Something wrong happened')
-);*/
+);
